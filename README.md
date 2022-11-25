@@ -2,8 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-da-silva-ferreira-0a22a51a6/)
 
-<div>
-  <a href="https://https://www.linkedin.com/in/felipe-da-silva-ferreira-0a22a51a6/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> width="50" height="50"</a>
+<div width="50" height="50">
+  <a href="https://https://www.linkedin.com/in/felipe-da-silva-ferreira-0a22a51a6/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark)
