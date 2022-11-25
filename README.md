@@ -2,11 +2,11 @@
 
 <div>
   <a href="https://https://www.linkedin.com/in/felipe-da-silva-ferreira-0a22a51a6/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eufelipe857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark)
 
 ## Learning technologies :globe_with_meridians: :memo:
