@@ -1,15 +1,15 @@
-### Hello there, I am Felipe Ferreia👋
-
+## Hello there, I am Felipe Ferreia :wave: :satisfied: <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-da-silva-ferreira-0a22a51a6/)
 
 ![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark)
 
-## Tecnologias more utilizate on daily :bar_chart: :sunny:
+## Learning technologies :globe_with_meridians: :memo:
 
-<div><br>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-          
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>                          
 </div>
