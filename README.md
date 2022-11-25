@@ -6,11 +6,8 @@
   
 </div>
 
-<div>
-<a href="https://github.com/FF857">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&langs_count=7&theme=onedark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-</div>
+[![FF857's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FF857)](https://github.com/anuraghazra/github-readme-stats)
+![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark)
 
 ## Learning technologies :globe_with_meridians: :memo:
 
