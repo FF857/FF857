@@ -12,8 +12,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 
-![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark)
-
 ## Learning technologies :globe_with_meridians: :memo:
 
 <div>
