@@ -6,7 +6,8 @@
   
 </div>
 
-![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark width="50" height="50") 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Learning technologies :globe_with_meridians: :memo:
 
