@@ -6,8 +6,11 @@
   
 </div width="50" height="50">
 
-![FF857 GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=onedark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/FF857">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Learning technologies :globe_with_meridians: :memo:
 
@@ -19,8 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>                          
 </div>
 
-<div>
-<a href="https://github.com/FF857">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
