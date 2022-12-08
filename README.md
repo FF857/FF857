@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/eu-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eufelipe857@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-</div width="50" height="50">
+</div width="51" height="51">
 
 <div>
 <a href="https://github.com/FF857">
