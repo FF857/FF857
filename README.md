@@ -8,11 +8,8 @@
 
 <div>
 <a href="https://github.com/FF857">
-  <img height="140em" src= "https://github-readme-stats.vercel.app/api?isername=FF857&anuraghazra&show_icons=true&theme=dark"/>
-  /*
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FF857&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FF857&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  */
+  <img height="140em" src= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
+  
 </div>
 
 ## Learning technologies :globe_with_meridians: :memo:
