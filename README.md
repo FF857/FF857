@@ -6,6 +6,8 @@
   
 </div width="50" height="50">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FF857)](https://github.com/FF857/github-readme-stats)
+
 <div>
 <a href="https://github.com/FF857">
   <img height="140em" src= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"/>
