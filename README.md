@@ -9,7 +9,7 @@
 
 <div>
  <a href="https://github.com/FF857">
- <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FF857&show_icons=true&theme=gruvbox"/>
+ <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FF857&show_icons=true&theme=cobalt"/>
  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FF857&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
