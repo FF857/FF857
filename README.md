@@ -9,8 +9,8 @@
 
 <div>
  <a href="https://github.com/FF857">
- <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FF857&show_icons=true&theme=synthwave"/>
- <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FF857&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FF857&show_icons=true&theme=highcontrast"/>
+ <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FF857&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Learning technologies :globe_with_meridians: :memo:
