@@ -10,7 +10,7 @@
 <div>
  <a href="https://github.com/FF857">
  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FF857&show_icons=true&theme=cobalt"/>
- <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FF857&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+ <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FF857&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Learning technologies :globe_with_meridians: :memo:
